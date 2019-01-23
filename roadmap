@@ -1,0 +1,49 @@
+Read:
+	Designing Data Intensive Applications
+
+RabbitMQ
+	https://www.rabbitmq.com/getstarted.html
+	https://www.manning.com/books/rabbitmq-in-action
+	https://www.manning.com/books/rabbitmq-in-depth
+
+Kafka
+	https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf
+	https://www.manning.com/books/kafka-in-action
+	https://www.manning.com/books/kafka-streams-in-action
+
+AWS EMR
+	https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html
+
+Docker 
+	https://docs.docker.com/get-started/
+	https://docker-curriculum.com/#introduction
+
+Kubernetes
+	https://github.com/iMarcoGovea/books/blob/master/dev-ops/kubernetes/kubernetes-up-running.pdf
+
+Luigi
+	https://luigi.readthedocs.io/en/stable/index.html
+
+Airflow
+	https://airflow.apache.org/
+
+Chef
+	https://learn.chef.io/#/
+
+Ansible
+	https://docs.ansible.com/
+
+Redshift
+	Project: Twitter stream into redshift
+
+ElasticSearch
+	https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html
+
+RDS
+	Project: Twitter stream -> redshift -> rds -> queries
+
+MongoDB
+	https://docs.mongodb.com/manual/introduction/
+
+TensorFlow / scikit-learn
+	learn from various resources AFTER everything else, ML is far less important
