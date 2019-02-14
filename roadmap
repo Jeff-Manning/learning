@@ -17,9 +17,11 @@ AWS EMR
 Docker 
 	https://docs.docker.com/get-started/
 	https://docker-curriculum.com/#introduction
+	https://www.manning.com/books/docker-in-action-second-edition
 
 Kubernetes
 	https://github.com/iMarcoGovea/books/blob/master/dev-ops/kubernetes/kubernetes-up-running.pdf
+	https://www.manning.com/books/kubernetes-in-action
 
 Luigi
 	https://luigi.readthedocs.io/en/stable/index.html
@@ -46,4 +48,6 @@ MongoDB
 	https://docs.mongodb.com/manual/introduction/
 
 TensorFlow / scikit-learn
-	learn from various resources AFTER everything else, ML is far less important
+	
+
+Vagrant? 
